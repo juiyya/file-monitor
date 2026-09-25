@@ -1,4 +1,4 @@
-# File Monitor - Active Defense
+# monitor de arquivos com defesa ativa 
 
 Um sistema de EDR Endpoint Detection and Response. Ele monitora arquivos, se detectar alterações não autorizadas, faz o rollback automático, isola a ameaça em quarentena e exige a aprovação de um administrador para validar a modificação.
 
